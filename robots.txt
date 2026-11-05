@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Dedicated AI Shopping Agent Permissions
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+llms-txt: https://utkarsh3010-maker.github.io/aeromaster-labs/llms.txt
